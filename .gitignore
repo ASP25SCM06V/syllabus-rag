@@ -1,21 +1,16 @@
-# virtual environment — never push this
+
 venv/
 env/
 .env/
 
-# uploaded syllabi — these are user files, not code
 uploads/
 
-# python cache
 __pycache__/
 *.py[cod]
 *.pyo
 
-# VS Code settings
 .vscode/
 
-# Mac junk
 .DS_Store
 
-# Windows junk
 Thumbs.db
