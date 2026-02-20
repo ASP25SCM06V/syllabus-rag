@@ -1,0 +1,7 @@
+sentence-transformers
+faiss-cpu
+langchain-text-splitters
+python-docx
+numpy
+flask
+flask-cors
