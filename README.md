@@ -13,10 +13,12 @@ Ask it things like:
 Every answer comes word-for-word from your document. Zero hallucination.
 
 ---
+## Demo
+https://github.com/user-attachments/assets/c2aa74ce-a5fb-4986-b0f0-52f1c89b881c
 
 ## Background
 
-I was taking **Big Data Technologies** at Illinois Tech and kept ctrl+F-ing
+I always kept ctrl+F-ing
 through the syllabus every time I forgot a deadline or needed to check a policy.
 So I built this over a weekend to fix that.
 
